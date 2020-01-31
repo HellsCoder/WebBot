@@ -1,0 +1,11 @@
+{
+  "name": "ramon-web",
+  "version": "1.0.0",
+  "description": "Ramon TypeScript component framework",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HellsCoder",
+  "license": "ISC"
+}
